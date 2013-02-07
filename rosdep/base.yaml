@@ -434,7 +434,7 @@ gtest:
   freebsd: googletest
   gentoo: dev-cpp/gtest
   macports: google-test
-  opensuse: gtest-devel
+  opensuse: googletest-devel
   ubuntu: libgtest-dev
 gtk2:
   arch: gtk2
@@ -1088,7 +1088,7 @@ log4cxx:
   freebsd: log4cxx
   gentoo: dev-libs/log4cxx
   macports: log4cxx
-  opensuse: log4cxx-devel
+  opensuse: log4cplus-devel
   rhel: log4cxx-devel
   ubuntu: liblog4cxx10-dev
 lua-dev:
@@ -1362,6 +1362,7 @@ tinyxml:
   arch: tinyxml
   debian: libtinyxml-dev
   fedora: tinyxml-devel
+  opensuse: tinyxml-devel
   rhel: tinyxml-devel
   ubuntu: libtinyxml-dev
   gentoo: tinyxml
