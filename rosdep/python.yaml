@@ -57,6 +57,7 @@ python-catkin-pkg:
     pip:
       packages: [ catkin-pkg ]
   ubuntu: python-catkin-pkg
+  opensuse: python-catkin_pkg
 python-clearsilver:
   ubuntu: python-clearsilver
   debian: python-clearsilver
