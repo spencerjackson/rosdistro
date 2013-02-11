@@ -213,6 +213,7 @@ python-qt-bindings-gl:
   ubuntu: python-qt4-gl
   fedora: PyQt4
   debian: python-qt4-gl
+  opensuse: python-qt4-devel
 python-qt-bindings-qwt5:
   ubuntu: python-qwt5-qt4
   fedora: PyQwt-devel
