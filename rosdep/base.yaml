@@ -289,6 +289,7 @@ eigen:
   ubuntu:
     apt:
       packages: [libeigen3-dev]
+  opensuse: libeigen3-devel
   fedora: eigen3-devel
   rhel: eigen3-devel
 epydoc:
@@ -919,6 +920,7 @@ libtheora:
   fedora: libtheora-devel
   macports: libtheora
   gentoo: media-libs/libtheora
+  opensuse: libtheora-devel
 libtiff4-dev:
   arch: libtiff
   debian: libtiff4-dev
@@ -977,6 +979,7 @@ libv4l-dev:
   debian: libv4l-dev
   ubuntu: libv4l-dev
   fedora: libv4l-devel
+  opensuse: libv4l-devel
 libvtk:
   arch: vtk
   ubuntu:
@@ -1218,6 +1221,7 @@ qt4-qmake:
   rhel: qt-devel
   debian: qt4-qmake
   gentoo: qt-core
+  opensuse: libqt4-devel
 qhull-bin:
   debian: qhull-bin
   ubuntu: qhull-bin
@@ -1372,6 +1376,7 @@ tbb:
   debian: libtbb-dev
   fedora: tbb-devel
   gentoo: tbb
+  opensuse: tbb-devel
 tcsh:
   arch: tcsh
   debian: tcsh
@@ -1450,6 +1455,7 @@ uuid:
   macports: ossp-uuid
   freebsd: e2fsprogs-libuuid
   gentoo: util-linux
+  opensuse: libuuid-devel
 libunittest++:
   ubuntu:
     apt:

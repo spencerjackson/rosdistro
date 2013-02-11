@@ -204,6 +204,7 @@ python-qt-bindings:
     sid: python-pyside libpyside-dev libshiboken-dev shiboken python-qt4 python-qt4-dev python-sip-dev
   gentoo: PyQt4
   fedora: PyQt4 PyQt4-devel sip-devel
+  opensuse: python-qt4-devel
 python-qt-bindings-gl:
   ubuntu: python-qt4-gl
   fedora: PyQt4
@@ -276,6 +277,7 @@ python-sip:
   gentoo: dev-python/sip
   arch: sip python2-sip
   freebsd: py26-sip
+  opensuse: python-sip-devel
 python-sphinx:
   arch: python2-sphinx
   debian: python-sphinx
@@ -283,6 +285,7 @@ python-sphinx:
   freebsd: py27-sphinx
   macports: py26-sphinx
   ubuntu: python-sphinx
+  opensuse: python-Sphinx
 python-support:
   ubuntu: python-support
   fedora: python
