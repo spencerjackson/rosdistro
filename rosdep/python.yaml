@@ -153,6 +153,7 @@ python-opengl:
   ubuntu: python-opengl
   fedora: PyOpenGL
   debian: python-opengl
+  opensuse: python-opengl
 python-paramiko:
   ubuntu: python-paramiko
   debian: python-paramiko
