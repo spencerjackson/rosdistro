@@ -792,6 +792,7 @@ libpng12-dev:
   fedora: libpng-devel
   debian: libpng12-dev
   ubuntu: libpng12-dev
+  opensuse: libpng12-devel
 libpoco-dev:
   debian: libpoco-dev
   ubuntu: libpoco-dev
@@ -969,6 +970,7 @@ libusb-1.0-dev:
   fedora:
     beefy: libusb1-devel
     spherical: libusbx-devel
+  opensuse: libusb-1_0-devel
 libusb-dev:
   arch: libusb-compat
   debian: libusb-dev
