@@ -248,6 +248,7 @@ python-rospkg:
   fedora:
     pip:
       packages: [ rospkg ]
+  opensuse: python-rospkg
 python-scapy:
   ubuntu: python-scapy
 python-scipy:
