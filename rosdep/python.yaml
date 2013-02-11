@@ -34,6 +34,7 @@ python-argparse:
     quantal:
       packages: []
   fedora: python
+  opensuse: python-argparse
 python-avahi:
   ubuntu: python-avahi
   debian: python-avahi
