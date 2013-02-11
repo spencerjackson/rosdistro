@@ -674,6 +674,7 @@ libjpeg:
   macports: jpeg
   arch: libjpeg-turbo
   gentoo: libjpeg-turbo
+  opensuse: libjpeg62-devel
 libjson0-dev:
   ubuntu: libjson0-dev
 libjson-java:
@@ -819,6 +820,7 @@ libqhull:
   fedora: qhull-devel
   macports: qhull
   gentoo: media-libs/qhull
+  opensuse: qhull-devel
 libqt4:
   ubuntu: [libqt4-dbus, libqt4-network, libqt4-script, libqt4-test, libqt4-xml, libqtcore4]
   arch: qt
