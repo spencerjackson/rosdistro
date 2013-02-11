@@ -214,6 +214,7 @@ cmake:
   ubuntu: cmake
   fedora: cmake
   gentoo: dev-util/cmake 
+  opensuse: cmake
 coinor-libipopt-dev:
   debian: coinor-libipopt-dev
   ubuntu: coinor-libipopt-dev
@@ -716,6 +717,7 @@ libogg:
   fedora: libogg-devel
   macports: libogg
   gentoo: media-libs/libogg
+  opensuse: libogg-devel
 libogre-dev:
   arch: ogre
   debian: libogre-dev
@@ -939,6 +941,7 @@ libtiff-dev:
     natty: libtiff4-dev
     maverick: libtiff4-dev
     lucid: libtiff4-dev
+  opensuse: libtiff-devel
 libtool:
   ubuntu:
     apt: 
@@ -993,6 +996,7 @@ libvtk:
   fedora: vtk-devel
   macports: vtk-devel
   gentoo: sci-libs/vtk
+  opensuse: vtk-devel
 libvtk-qt:
   debian: libvtk5-qt4-dev
   ubuntu: libvtk5-qt4-dev 
@@ -1581,6 +1585,7 @@ yaml-cpp:
   fedora: yaml-cpp-devel 
   rhel: yaml-cpp-devel 
   gentoo: yaml-cpp
+  opensuse: yaml-cpp-devel
 yasm:
   debian: yasm
   ubuntu: yasm

@@ -128,6 +128,7 @@ python-nose:
   debian: python-nose
   ubuntu: python-nose
   fedora: python-nose
+  opensuse: python-nose
 python-numpy:
   ubuntu: python-numpy
   debian: python-numpy
