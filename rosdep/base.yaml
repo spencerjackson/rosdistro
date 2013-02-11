@@ -490,6 +490,7 @@ jasper:
   arch: jasper
   gentoo: jasper
   fedora: jasper-devel
+  opensuse: libjasper-devel
 java:
   ubuntu: default-jdk
   debian: openjdk-6-jdk
@@ -702,6 +703,7 @@ libmysqlclient-dev:
   debian: libmysqlclient-dev
   ubuntu: libmysqlclient-dev
   fedora: mysql
+  opensuse: libmysqlclient-devel
 libncurses-dev:
   ubuntu: libncurses5-dev
 libnl-dev:
