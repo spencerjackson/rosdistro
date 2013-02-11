@@ -1088,7 +1088,7 @@ log4cxx:
   freebsd: log4cxx
   gentoo: dev-libs/log4cxx
   macports: log4cxx
-  opensuse: log4cplus-devel
+  opensuse: liblog4cxx-devel
   rhel: log4cxx-devel
   ubuntu: liblog4cxx10-dev
 lua-dev:
