@@ -1146,6 +1146,8 @@ nvidia-cg:
 omniorb4-idl:
   debian: omniorb-idl
   ubuntu: omniorb4-idl
+opencv2:
+  opensuse: opencv-devel
 opengl:
   arch: mesa
   debian: libgl1-mesa-dev libglu1-mesa-dev
