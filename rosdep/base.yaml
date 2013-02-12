@@ -730,7 +730,7 @@ libogre-dev:
   fedora: ogre-devel
   gentoo: dev-games/ogre
   macports: ogre
-  opensuse: ogre-devel
+  opensuse: libOgreMain-devel libOgrePaging-devel libOgreProperty-devel libOgreRTShaderSystem-devel libOgreTerrain-devel
   rhel: ogre-devel
   ubuntu: libogre-dev
 libsimage-dev:
