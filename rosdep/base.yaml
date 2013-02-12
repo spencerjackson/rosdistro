@@ -856,6 +856,7 @@ libqt4-opengl-dev:
   fedora: qt-devel
   rhel: qt-devel
   gentoo: qt-opengl
+  opensuse: libqt4-devel
 libqt4-sql-psql:
   ubuntu: libqt4-sql-psql
 libqtgui4:
