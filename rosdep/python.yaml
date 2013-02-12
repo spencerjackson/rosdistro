@@ -176,6 +176,7 @@ python-pydot:
     pip:
       packages: [ pydot ]
   fedora: pydot
+  opensuse: python-pydot
 python-pygame:
   ubuntu: python-pygame
 python-pygraphviz:
@@ -218,6 +219,7 @@ python-qt-bindings-gl:
 python-qt-bindings-qwt5:
   ubuntu: python-qwt5-qt4
   fedora: PyQwt-devel
+  opensuse: python-qwt5
 python-qt4-gl:
   ubuntu: 
     apt: 

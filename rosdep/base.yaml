@@ -60,6 +60,7 @@ assimp:
       apt:
         packages: [libassimp-dev]
   gentoo: assimp
+  opensuse: libassimp3-devel
 assimp-dev:
   debian:
     sid: libassimp-dev
@@ -222,6 +223,7 @@ coinor-libipopt-dev:
 collada-dom:
   ubuntu: collada-dom-dev
   fedora: collada-dom-devel
+  opensuse: libcollada-dom-devel
 coreutils:
   arch: coreutils
   debian: coreutils
@@ -459,6 +461,7 @@ hddtemp:
   debian: hddtemp
   ubuntu: hddtemp
   fedora: hddtemp
+  opensuse: hddtemp
 hdf5:
   debian: libhdf5-serial-dev
   ubuntu: libhdf5-serial-dev
@@ -800,6 +803,7 @@ libpoco-dev:
   debian: libpoco-dev
   ubuntu: libpoco-dev
   fedora: poco-devel
+  opensuse: poco-devel
 libpocofoundation9:
   ubuntu: libpocofoundation9
 libpopt-dev:
